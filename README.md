@@ -11,6 +11,7 @@ This project focuses on employing machine learning models to identify (detection
   - 📜 ... (Additional contents of U-Net directory)
 - 📜 **detection_to_segmentation.ipynb**
 
+**Note**: For clarity and repository size considerations, subdirectories that originally contained images, masks, CSV files, and annotations have been pushed in their empty state. This ensures that the structure of the project is evident without overloading the repository with large data files.
 
 ## Faster R-CNN for Detection
 
