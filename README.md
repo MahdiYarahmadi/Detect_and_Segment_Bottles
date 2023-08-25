@@ -23,5 +23,5 @@ Post detection, the next step is to segment the identified bottles. This is wher
 
 ## Transitioning from Detection to Segmentation
 
-The detection_to_segmentation.ipynb notebook serves as a bridge between the detection and segmentation phases. Once the trained models for both detection and segmentation are loaded, the notebook processes the Faster R-CNN outputs, prepares the data, and transitions to the segmentation phase. It illustrates how the detected outputs can feed into the segmentation model.
+The detection_to_segmentation.ipynb notebook serves as a bridge between the detection and segmentation phases. Once the trained models for both detection and segmentation are loaded, the notebook processes the Faster R-CNN outputs, prepares the data, and transitions to the segmentation phase. It illustrates how the detected outputs can be fed into the segmentation model.
 
